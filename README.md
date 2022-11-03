@@ -11,19 +11,19 @@
 
 **POOBESH V**
 
-[Assignment I]
+[Assignment I](https://github.com/IBM-EPBL/IBM-Project-29482-1660126076/blob/main/TEM%20PIC.png)
 
-[Assignment II]
+[Assignment II](https://github.com/IBM-EPBL/IBM-Project-29482-1660126076/blob/main/temp%20%26%20hum)
 
-[Assignment III]
+[Assignment III](https://github.com/IBM-EPBL/IBM-Project-29482-1660126076/tree/main/ASSIGNMENT%20III/POOBESH%20V%20(TM))
 
 **YOGESHWARI S**
 
-[Assignment I]
+[Assignment I](https://github.com/IBM-EPBL/IBM-Project-29482-1660126076/blob/main/Fantastic%20Jofo%20(1).png)
 
-[Assignment II]
+[Assignment II](https://github.com/IBM-EPBL/IBM-Project-29482-1660126076/commit/a06102764bcaa3471a96866b0222413dfb5eb0d6)
 
-[Assignment III]
+[Assignment III](https://github.com/IBM-EPBL/IBM-Project-29482-1660126076/tree/main/ASSIGNMENT%20III/YOGESHWARI%20S%20(TM))
 
 # Ideation Phase :
 
