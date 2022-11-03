@@ -27,36 +27,32 @@
 
 # Ideation Phase :
 
-Literature Survey :[Click](https://github.com/IBM-EPBL/IBM-Project-29482-1660126076/tree/main/IDEATION%20PHASE)
+Literature Survey :  [Click](https://github.com/IBM-EPBL/IBM-Project-29482-1660126076/tree/main/IDEATION%20PHASE)
 
-Empathy Map :
+Empathy Map & Problem Statement :  [Click](https://github.com/IBM-EPBL/IBM-Project-29482-1660126076/tree/main/IDEATION%20PHASE)
 
-Problem Statement : 
-
-Brainstorming Map :
-
-Project Design and Planning :
+Brainstorming Map :  [Click](https://github.com/IBM-EPBL/IBM-Project-29482-1660126076/tree/main/IDEATION%20PHASE)
 
 # Project Design Phase 1 :
 
-Proposed Solution :
+Proposed Solution :  [Click](https://github.com/IBM-EPBL/IBM-Project-29482-1660126076/tree/main/PROJECT%20DESIGN%20PHASE%20I)
 
-Solution Fit :
+Solution Fit :   [Click](https://github.com/IBM-EPBL/IBM-Project-29482-1660126076/tree/main/PROJECT%20DESIGN%20PHASE%20I)
 
-Solution Architecture : 
+Solution Architecture :   [Click](https://github.com/IBM-EPBL/IBM-Project-29482-1660126076/tree/main/PROJECT%20DESIGN%20PHASE%20I)
 
 # Project Design Phase 2 :
 
-Customer Journey Map :
+Customer Journey Map :   [Click](https://github.com/IBM-EPBL/IBM-Project-29482-1660126076/tree/main/PROJECT%20DESIGN%20PHASE%20II)
 
-Solution Requirements : 
+Solution Requirements :    [Click](https://github.com/IBM-EPBL/IBM-Project-29482-1660126076/tree/main/PROJECT%20DESIGN%20PHASE%20II)
 
-Data Flow : 
+Data Flow :   [Click](https://github.com/IBM-EPBL/IBM-Project-29482-1660126076/tree/main/PROJECT%20DESIGN%20PHASE%20II)
 
-Technology Architecture :
+Technology Architecture :   [Click](https://github.com/IBM-EPBL/IBM-Project-29482-1660126076/tree/main/PROJECT%20DESIGN%20PHASE%20II)
 
 Project Planning :
 
-#Project Development Phase
+# Project Development Phase
 
-Sprint1: Sprint 1
+Sprint1: 
