@@ -51,7 +51,7 @@ Data Flow :   [Click](https://github.com/IBM-EPBL/IBM-Project-29482-1660126076/t
 
 Technology Architecture :   [Click](https://github.com/IBM-EPBL/IBM-Project-29482-1660126076/tree/main/PROJECT%20DESIGN%20PHASE%20II)
 
-Project Planning :
+Project Planning :  [Click](https://github.com/IBM-EPBL/IBM-Project-29482-1660126076/tree/main/PROJECT%20PLANNING%20PHASE)
 
 # Project Development Phase
 
