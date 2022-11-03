@@ -28,3 +28,35 @@
 # Ideation Phase :
 
 Literature Survey :[Click](https://github.com/IBM-EPBL/IBM-Project-29482-1660126076/tree/main/IDEATION%20PHASE)
+
+Empathy Map :
+
+Problem Statement : 
+
+Brainstorming Map :
+
+Project Design and Planning :
+
+# Project Design Phase 1 :
+
+Proposed Solution :
+
+Solution Fit :
+
+Solution Architecture : 
+
+# Project Design Phase 2 :
+
+Customer Journey Map :
+
+Solution Requirements : 
+
+Data Flow : 
+
+Technology Architecture :
+
+Project Planning :
+
+#Project Development Phase
+
+Sprint1: Sprint 1
